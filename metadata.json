@@ -1,0 +1,6 @@
+{
+  "name": "AutoRevenue - Générateur de Revenus Automatisé",
+  "description": "Plateforme d'automatisation de flux de revenus digitaux : création et vente automatique de produits numériques, monétisation par affiliation, micro-SaaS et système autopilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
